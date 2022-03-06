@@ -1,3 +1,3 @@
 # Multiple correspondence analysis of United Nations General Assembly voting data
 Multiple correspondence analysis was performed with <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LEJUQZ">United Nation General Assembly voting data</a> using R package <i>FactoMineR</i>. The data was divided into three periods: from the establishment of United Nations to Cuban Missile Crisis (1946-1962), from Cuban Missile Crisis to the collapse of USSR (1963-1991), and after the collapse of USSR (1992-2019). Countries which missed more and half of the votes in each period were excluded. Clicking the data points can show and hide the name of the country.
-<a hre="https://bl.ocks.org/kimchank/577acf20c9057879bdbdeb7d52919e0e"><img src="https://github.com/kimchank/UN_vote/blob/main/un_card.jpg"></a>
+<a href="https://bl.ocks.org/kimchank/577acf20c9057879bdbdeb7d52919e0e"><img src="https://github.com/kimchank/UN_vote/blob/main/un_card.jpg"></a>
